@@ -1,3 +1,7 @@
+# Arnav Kulkarni's First CS193 Homework
+- I like that this class teaches useful skills
+- Simplifies what we're learning - ie this simple website
+- Easy grading - not meant to be difficult, but targeted toward learning
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
